@@ -1,0 +1,27 @@
+body, ul, ol{
+text-align: center;
+background: lightcyan;
+} /* centers text and creates a background color */
+h1, h2, h3{
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+}/* sets font style and color for headers */
+h3{
+  font-size: 18px;
+}/* creates unique size */
+p{
+  font-size: 18px;
+}
+header, footer{
+  margin: 5px;
+  padding: 5px;
+}/* adds space around header and footer */
+image{
+  height: 400px;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: purple;
+}
